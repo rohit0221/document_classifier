@@ -14,3 +14,14 @@ google-cloud-documentai
 langchain-google-community[docai]
 langchain_chroma
 camelot-py
+
+llama-index-llms-openai
+llama-index-multi-modal-llms-openai
+llama-index-vector-stores-qdrant
+llama-index
+qdrant-client
+pymupdf
+tools
+frontend
+git+https://github.com/openai/CLIP.git
+easyocr
