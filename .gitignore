@@ -1,6 +1,8 @@
 /.env
 /venv
-.env
-*.pyc
-data
+venv
+/faiss_index
+/storage
+/data
+*.json
 ghega-dataset

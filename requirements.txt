@@ -3,3 +3,14 @@ pydantic
 langchain_openai
 langchain
 python-dotenv
+llama-index-embeddings-openai
+llama-index-readers-file 
+pymupdf
+llama-index-llms-openai
+llama-index-experimental
+camelot
+langchain_google_community
+google-cloud-documentai
+langchain-google-community[docai]
+langchain_chroma
+camelot-py
